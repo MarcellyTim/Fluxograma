@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="6">
   <diagram name="CoreMidia" id="77dQiypsAqEF0Wx7CJ8x">
-    <mxGraphModel dx="1861" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="xT_4DFJUIQbGuESXu0d3-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;A Konecta é um parceiro de vendas e a Shift é um braço de tecnologia que faz a ligação entre pedidos realizados na LP/SMS ou qqr outra ação com a plataforma da Byside. Cliente faz o pedido na LP, shift envia para Byside e a plataforma direciona para a Koneca. Portanto, a shift permanece nessa equação, substituiremos apenas a Konecta pela A8 Parceiro de venda).&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="204" y="1050" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="KuDfoPJmZNa9Jemo-0_U-1" value="teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

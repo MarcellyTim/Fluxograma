@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11" pages="7">
   <diagram name="CoreMidia" id="77dQiypsAqEF0Wx7CJ8x">
     <mxGraphModel dx="1861" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -845,7 +845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5sJgGMgD4bEOTZgA9i63" name="Envio de Leads A8">
-    <mxGraphModel dx="1861" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,10 +858,11 @@
         <mxCell id="1vJrEaMrhDP4Rzmza4NT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ySccogYWhht_4OBWAj0C-4" target="1vJrEaMrhDP4Rzmza4NT-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RDxg8CorwqQq8xOkiRUd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySccogYWhht_4OBWAj0C-4" target="RDxg8CorwqQq8xOkiRUd-1">
+        <mxCell id="Q5chVEsM6ShPOjd7jc1v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySccogYWhht_4OBWAj0C-4" target="X6m3JlpeLtPqhuU_sXgR-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="1630" />
+              <mxPoint x="310" y="1700" />
+              <mxPoint x="414" y="1700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -945,9 +946,6 @@
         <mxCell id="ySccogYWhht_4OBWAj0C-16" value="Coremidia/Byside com código da Konecta" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gtzb74N6Frze3ME5jeUJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RDxg8CorwqQq8xOkiRUd-1" target="X6m3JlpeLtPqhuU_sXgR-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gtzb74N6Frze3ME5jeUJ-5" value="Coremidia/Byside operação que classifica&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="793" y="1673.25" width="114" height="65" as="geometry" />
         </mxCell>
@@ -1019,14 +1017,46 @@
         <mxCell id="Ve0LVBjo6v-l3RjnwUna-3" value="Cliente finaliza pedido no checkout&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RDxg8CorwqQq8xOkiRUd-2" value="10% pra A8 e 90% da conecta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="RDxg8CorwqQq8xOkiRUd-2" value="10% pra A8 e 90% da conecta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="384" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RDxg8CorwqQq8xOkiRUd-3" value="Envia pro lotes&lt;br&gt;e a preferencia da porcentagem vai pra konecta - 06/02 ao longo do dia e aguardar o GO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="RDxg8CorwqQq8xOkiRUd-3" value="Envia pro lotes&lt;br&gt;e a preferencia da porcentagem vai pra konecta - 06/02 ao longo do dia e aguardar o GO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="210" y="1900" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RDxg8CorwqQq8xOkiRUd-1" value="Falta as informações tecnica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1600" width="120" height="60" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Be3TEHXft9v2KFecA_xc" name="Carrinho Abandonado">
+    <mxGraphModel dx="1034" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zafYe1vetkId6AO6ZFWv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zafYe1vetkId6AO6ZFWv-1" target="zafYe1vetkId6AO6ZFWv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-1" value="Carrinho abandonado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zafYe1vetkId6AO6ZFWv-2" target="zafYe1vetkId6AO6ZFWv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-2" value="TIM TIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zafYe1vetkId6AO6ZFWv-4" target="zafYe1vetkId6AO6ZFWv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-4" value="carrinho" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zafYe1vetkId6AO6ZFWv-6" target="zafYe1vetkId6AO6ZFWv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-6" value="coremidia fazer os disparos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zafYe1vetkId6AO6ZFWv-8" value="Fernanda Tonelotto e Lino criaram as réguas de comunicação" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

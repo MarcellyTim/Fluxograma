@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.14" pages="8">
   <diagram name="CoreMidia" id="77dQiypsAqEF0Wx7CJ8x">
     <mxGraphModel dx="1861" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -686,7 +686,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z9blyMZCd_G9CW7WnueX" name="API CEP">
-    <mxGraphModel dx="1861" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,11 +743,11 @@
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zrDuCw8HLLf9mebG1e3y-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="134" y="610" as="targetPoint" />
+            <mxPoint x="134" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-28" value="App Tim Vendas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="74" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="74" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zrDuCw8HLLf9mebG1e3y-33" target="zrDuCw8HLLf9mebG1e3y-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -759,7 +759,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-33" value="Macro (BOT)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="443" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="443" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zrDuCw8HLLf9mebG1e3y-36" target="zrDuCw8HLLf9mebG1e3y-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -768,39 +768,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-36" value="Sonar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="273" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="273" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-37" value="Lista de CEP com &lt;br&gt;D-1" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="273" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="273" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fX7Ti3LeQ6X3weuFjk9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zrDuCw8HLLf9mebG1e3y-38" target="zrDuCw8HLLf9mebG1e3y-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="674" y="480" />
-              <mxPoint x="134" y="480" />
+              <mxPoint x="674" y="515" />
+              <mxPoint x="134" y="515" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-38" value="Shift" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="644" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="644" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-41" value="Base principal de CEPs com cobertura" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="74" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="74" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="593" y="580" as="sourcePoint" />
-            <mxPoint x="593" y="580" as="targetPoint" />
+            <mxPoint x="593" y="615" as="sourcePoint" />
+            <mxPoint x="593" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-44" value="To do" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="40" y="475" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-48" value="Coleta principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="303" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="303" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zrDuCw8HLLf9mebG1e3y-49" value="Coleta Contigencia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="428" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="428" y="685" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JtbMoaq-ihH0DMlgXZPf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JtbMoaq-ihH0DMlgXZPf-1" target="JtbMoaq-ihH0DMlgXZPf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -827,10 +827,10 @@
           <mxGeometry x="-130" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fX7Ti3LeQ6X3weuFjk9r-3" value="Coleta Contigencia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="574" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="574" y="595" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fX7Ti3LeQ6X3weuFjk9r-4" value="Coleta principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="614" y="484" width="60" height="30" as="geometry" />
+          <mxGeometry x="614" y="519" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fX7Ti3LeQ6X3weuFjk9r-5" value="CEP e número + Complemento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="610" width="120" height="60" as="geometry" />

@@ -213,7 +213,7 @@
         <mxCell id="pULxWLU7WKNnY29NqrhH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-7" target="pULxWLU7WKNnY29NqrhH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pULxWLU7WKNnY29NqrhH-7" value="Hive" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pULxWLU7WKNnY29NqrhH-7" value="Hive/Macro" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-450" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pULxWLU7WKNnY29NqrhH-8" value="Wpp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -447,7 +447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KWwRyO09Ipr41BqSaBZS" name="Esteira Inteligente">
-    <mxGraphModel dx="1088" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

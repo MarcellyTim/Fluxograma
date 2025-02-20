@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.15" pages="7">
   <diagram name="CoreMidia" id="77dQiypsAqEF0Wx7CJ8x">
-    <mxGraphModel dx="1861" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,42 @@
         </mxCell>
         <mxCell id="xT_4DFJUIQbGuESXu0d3-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;A Konecta é um parceiro de vendas e a Shift é um braço de tecnologia que faz a ligação entre pedidos realizados na LP/SMS ou qqr outra ação com a plataforma da Byside. Cliente faz o pedido na LP, shift envia para Byside e a plataforma direciona para a Koneca. Portanto, a shift permanece nessa equação, substituiremos apenas a Konecta pela A8 Parceiro de venda).&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="204" y="1050" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-1" target="pULxWLU7WKNnY29NqrhH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-1" target="pULxWLU7WKNnY29NqrhH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-1" target="pULxWLU7WKNnY29NqrhH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-1" target="pULxWLU7WKNnY29NqrhH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-1" target="pULxWLU7WKNnY29NqrhH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-1" value="Macro" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-2" target="pULxWLU7WKNnY29NqrhH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-2" value="Krush" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-7" target="pULxWLU7WKNnY29NqrhH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-7" value="Hive" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-8" value="Wpp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pULxWLU7WKNnY29NqrhH-11" value="webdealler" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -411,15 +447,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KWwRyO09Ipr41BqSaBZS" name="Esteira Inteligente">
-    <mxGraphModel dx="1880" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CBhwAgMWEf79zRTqQBQN-1" value="Fluxo Online" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="MtdF5xr1c47vAMapACxE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBhwAgMWEf79zRTqQBQN-1" target="MtdF5xr1c47vAMapACxE-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBhwAgMWEf79zRTqQBQN-2" value="Fluxo BOT - WhatsApp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="CBhwAgMWEf79zRTqQBQN-1" value="Fluxo Online" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxwBc9kVpJHXTx9XHuaO-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;CONTINUE&quot;- Considerado como aprovado e o fluxo prossegue com o pedido até finalização por parte do cliente&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;REFER&quot; - Trata como inconclusivo&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;STOP&quot; - Travado - Fraude Geral&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;NODECISION&quot; - Considerado como aprovado e o fluxo prossegue com o pedido até finalização por parte do cliente. Quando o Quiz não é respondido e chama o motor novamente. &lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;ERROR&quot; - Erro &lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; font-weight: 400; white-space-collapse: preserve; background-color: rgb(217, 217, 217);&quot; class=&quot;ewa-rteLine&quot;&gt;&quot;PAUSE&quot; - Inclonclusito e chama o Quiz&lt;br/&gt;&lt;br/&gt;Via API não existe hoje, mas se tivesse o cliente receberia um link de biometria&lt;br/&gt;&lt;br/&gt;Não tinhamos visibilidade do ponto das 3 horas Edson&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="20" width="656" height="150" as="geometry" />
@@ -428,76 +464,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-1" value="bot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="l32288klpQfpJFmkC-iN-2" target="l32288klpQfpJFmkC-iN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-2" value="primeira resposta da serasa" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="234" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="l32288klpQfpJFmkC-iN-4" target="l32288klpQfpJFmkC-iN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-4" value="entra no quiz se não for stp" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l32288klpQfpJFmkC-iN-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-2" target="lNOiW3abexrAOVyNUoJt-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-2" value="bot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="524" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-4" target="lNOiW3abexrAOVyNUoJt-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-4" value="primeira resposta da serasa" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="254" y="524" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-6" target="lNOiW3abexrAOVyNUoJt-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-6" value="entra no quiz se não for stp" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="524" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="524" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-8" target="lNOiW3abexrAOVyNUoJt-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-8" value="fluxo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-9" target="lNOiW3abexrAOVyNUoJt-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-9" value="Pede CEP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-11" target="lNOiW3abexrAOVyNUoJt-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-11" value="Possui cobertura?" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-13" target="lNOiW3abexrAOVyNUoJt-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-13" value="sim, pede CPF" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNOiW3abexrAOVyNUoJt-15" target="lNOiW3abexrAOVyNUoJt-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-15" value="Consulta os dados na receita federal" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOiW3abexrAOVyNUoJt-17" value="sim, continua o fluxo" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNOiW3abexrAOVyNUoJt-19" value="CEP e número -&amp;nbsp;&lt;br&gt;Datas e hora" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="790" width="120" height="60" as="geometry" />
@@ -522,6 +504,30 @@
         </mxCell>
         <mxCell id="X7zWLhYRGBl20xvbf6aT-5" value="SLA de chamada do quiz ao inves de ser 3 horas e ser menos" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="643" y="1179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MtdF5xr1c47vAMapACxE-1" target="MtdF5xr1c47vAMapACxE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-1" value="Reponde o quiz" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MtdF5xr1c47vAMapACxE-3" target="MtdF5xr1c47vAMapACxE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-3" value="Abandona o fluxo" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MtdF5xr1c47vAMapACxE-5" target="MtdF5xr1c47vAMapACxE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-5" value="Após 10 min recebe mensageria do carrinho abandonado" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-7" value="NODECISION" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtdF5xr1c47vAMapACxE-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1129,11 +1129,113 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="z4Yny9ZcpW1QO3O7MMxA" name="Página-8">
-    <mxGraphModel dx="3194" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="z4Yny9ZcpW1QO3O7MMxA" name="Responsabilidades">
+    <mxGraphModel dx="3194" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UCFZGQS0felILmnxw6WF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-1" target="UCFZGQS0felILmnxw6WF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-1" value="ANA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-2" target="UCFZGQS0felILmnxw6WF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-2" target="UCFZGQS0felILmnxw6WF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-2" target="UCFZGQS0felILmnxw6WF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-2" target="UCFZGQS0felILmnxw6WF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-2" target="UCFZGQS0felILmnxw6WF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-2" value="Coremedia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-3" target="UCFZGQS0felILmnxw6WF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-3" value="Ajustes de horario feriado/final de ano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-4" target="UCFZGQS0felILmnxw6WF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-4" value="Criação de Skill/Equipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-5" target="UCFZGQS0felILmnxw6WF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-5" value="Compartilhamento e criação de Dash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-6" target="UCFZGQS0felILmnxw6WF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-6" value="Criação de Usuários na CoreMedia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-7" target="UCFZGQS0felILmnxw6WF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-7" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-8" target="UCFZGQS0felILmnxw6WF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-8" value="Operação pode abrir a tarefa solicitando ajuste diretamente na consola da Coremedia." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-9" value="Apenas compartilhar com a Ana por e-mail para que ela possa acompanhar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-15" target="UCFZGQS0felILmnxw6WF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-15" value="Enviar Briefing para Ana com a solicitação." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-16" value="Ana abrir tarefa na Coremedia." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-21" target="UCFZGQS0felILmnxw6WF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-21" value="Em casos de criação de dash, enviar Briefing para ANA. Compartilhamento, apenas solicitar via e-mail para ANA." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-22" value="Ana abrir tarefa na Coremedia." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-23" target="UCFZGQS0felILmnxw6WF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-23" value="Se for perfil de gestão, seguir solicitando diretamente para ANA. Se for operadores e supervisores, solicitar via e-mail para ANA." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-24" value="Ana abrir tarefa na Coremedia." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCFZGQS0felILmnxw6WF-29" target="UCFZGQS0felILmnxw6WF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-29" value="Em casos de novos projetos, enviar briefing a ANA com o ajuste do Workflow." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-32" value="Ana abrir tarefa na Coremedia." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCFZGQS0felILmnxw6WF-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

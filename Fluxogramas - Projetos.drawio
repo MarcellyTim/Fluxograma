@@ -216,8 +216,10 @@
         <mxCell id="pULxWLU7WKNnY29NqrhH-7" value="Hive/Macro" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-450" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="saDwiuuLW61sl6cu67IU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-8" target="saDwiuuLW61sl6cu67IU-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="saDwiuuLW61sl6cu67IU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pULxWLU7WKNnY29NqrhH-8" target="saDwiuuLW61sl6cu67IU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pULxWLU7WKNnY29NqrhH-8" value="Wpp" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-450" y="930" width="120" height="60" as="geometry" />
@@ -225,8 +227,14 @@
         <mxCell id="pULxWLU7WKNnY29NqrhH-11" value="webdealler" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-600" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="saDwiuuLW61sl6cu67IU-1" value="Reversão e Abandono são atendimento Humano" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="saDwiuuLW61sl6cu67IU-1" value="Reversão e Abandono do carrinho são atendimento Humano" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="saDwiuuLW61sl6cu67IU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="saDwiuuLW61sl6cu67IU-4" target="saDwiuuLW61sl6cu67IU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saDwiuuLW61sl6cu67IU-4" value="Carrinho abandonado é chatbot" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
